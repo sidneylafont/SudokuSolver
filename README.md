@@ -14,6 +14,6 @@ for example using the sudoku puzzle provided
 
 # Packages
 
-*numpy
-*pandas
-*sys
+- numpy
+- pandas
+- sys
